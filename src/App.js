@@ -58,7 +58,7 @@ export default function App() {
   return (
     <div>
       <div className="container">
-        <h1>Brain Smart</h1>
+        <h1>000 Brain Smart</h1>
         <div>High Score: {highScore}</div>
         <div>Moves: {moves}</div>
         <div>Time: {time.m}:{time.s}</div>
